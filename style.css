@@ -1,0 +1,16 @@
+header {
+  color: midnightblue;
+  text-shadow: 2px 2px white;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.container-fluid-1{
+  background-image: url("img/istockphoto-1301156172-170667a.jpg");
+  background-size: cover;
+}
+
+h3 {
+  color: white;
+  text-shadow: 2px 2px midnightblue;
+}
