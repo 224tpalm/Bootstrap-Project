@@ -15,3 +15,15 @@ h3 {
   color: white;
   text-shadow: 2px 2px midnightblue;
 }
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.introwriting {
+  text-align: center;
+}
+
+.modal-body, .modal-title {
+  color: black;
+}
