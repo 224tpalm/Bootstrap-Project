@@ -27,3 +27,11 @@ h3 {
 .modal-body, .modal-title {
   color: black;
 }
+
+.collapse {
+  color:white;
+  font-family: sans-serif;
+  text-shadow: 1px 1px black;
+  text-align: center;
+
+}
